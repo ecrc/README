@@ -1,2 +1,34 @@
 # README
-Useful information
+## Useful information
+ECRC code is being migrated to Github. All new and older code should be hosted in there. We have different GitHub Organizations that are meant to host and organize different types of code.
+
+Our different GitHub Organizations:
+
+* [ECRC](https://github.com/ecrc)
+        All software should be here. 
+* [ECRC PAPERS](https://github.com/ecrcpapers)
+        Meant for papers. 
+* [ECRC THESIS](https://github.com/ecrcthesis)
+        Students thesis must be hosted here. 
+* [ECRC PROPOSALS](https://github.com/ecrcproposals)
+        Proposals 
+* [ECRC PRESENTATIONS](https://github.com/ecrcpresentations)
+        Presentations 
+* [ECRC POSTERS](https://github.com/ecrcposters)
+        Posters 
+
+Please ask to become a member or contributor.
+
+## Naming convention
+To help organize the different repos, we are proposing a naming convention as follows:
+
+* ecrc: `projectname-dev (private and/or under development) / projectname (public)`
+* ecrcpapers: `YYYY_venue_papercode`
+* ecrcthesis: `YYYY_kaustlogin`
+* ecrcpresentations: `YYYY_venue_presentationcode`
+* ecrcproposals: `YYYY_proposalcode`
+* ecrcposters: `YYYY_venue_postercode`
+
+example: 2017_sc_mle
+
+Remember to use **lowercase** and **unique** names/codes 
